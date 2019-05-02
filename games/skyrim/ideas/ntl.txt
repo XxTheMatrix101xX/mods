@@ -1,0 +1,21 @@
+#Need To Learn
+
+customCells
+|_playerHome
+  |_multipleEntry
+  |_despawns
+    |_refreshFalse
+
+customTrades
+
+customItems
+|_weapons
+|_armour
+|_assets
+  |_buildingAssets
+    |_cusomPlayerHome
+
+customNPCs
+|_blocksLocal
+|_leveled
+|_standardLoadout
